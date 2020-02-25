@@ -47,6 +47,7 @@
         <a href="https://ld-wp73.template-help.com/wordpress/prod_27609/v1/"> <span class="elementor-icon-list-text">Terms & Privacy</span>
         </a>
     </div>
+    <small>&copy; Copyright 2058, Example Corporation</small>
 </footer>
 </body>
 </html>
